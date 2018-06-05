@@ -1,0 +1,14 @@
+{
+  "name": "proxy_service",
+  "version": "1.0.0",
+  "description": "simple proxy windows service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "lxgreen",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
